@@ -30,6 +30,6 @@
   },
 
   "expireSystem": {
-    "enabled": false
+    "enabled": true
   }
 }
