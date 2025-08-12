@@ -1,7 +1,7 @@
 {
   "dialogTitle": "NADYMODS",
   "apiKey": "c13a6be54a41dc819547c7f6ce91d96242de3428",
-  "apiDomain": "arlinks.in",
+  "apiDomain": "indianshortnet.com",
   "firebaseDbUrl": "https://adsshortvip-default-rtdb.asia-southeast1.firebasedatabase.app/",
   "tokenRequestUrl": "https://amazing-kelpie-1e19b5.netlify.app/.netlify/functions/request-token",
   
@@ -12,7 +12,7 @@
   },
 
   "verification": {
-    "longUrl": "https://amazing-kelpie-1e19b5.netlify.app/verify",
+    "longUrl": "https://indianshortner.in/9SQRU",
     "useHours": true,
     "durationHours": 0,
     "durationMinutes": 1
