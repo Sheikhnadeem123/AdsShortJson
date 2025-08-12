@@ -1,7 +1,7 @@
 {
   "dialogTitle": "NADYMODS",
   "apiKey": "c13a6be54a41dc819547c7f6ce91d96242de3428",
-  "apiDomain": "indianshortner.com",
+  "apiDomain": "arlinks.in",
   "firebaseDbUrl": "https://adsshortvip-default-rtdb.asia-southeast1.firebasedatabase.app/",
   "tokenRequestUrl": "https://amazing-kelpie-1e19b5.netlify.app/.netlify/functions/request-token",
   
@@ -26,7 +26,7 @@
   "links": {
     "joinUs": "https://t.me/NadyMods",
     "contact": "https://NadyMods",
-    "tutorial": "https://youtube.com/@yaminahmed?si=RyfMAqKiFz7I8gg3"
+    "tutorial": "https://t.me/modapkdownloa/687"
   },
 
   "expireSystem": {
