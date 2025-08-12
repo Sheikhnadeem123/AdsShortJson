@@ -1,0 +1,35 @@
+{
+  "dialogTitle": "YAMMY MODS",
+  "apiKey": "c13a6be54a41dc819547c7f6ce91d96242de3428",
+  "apiDomain": "arlinks.in",
+  "firebaseDbUrl": "https://adsshortvip-default-rtdb.asia-southeast1.firebasedatabase.app/",
+  "tokenRequestUrl": "https://amazing-kelpie-1e19b5.netlify.app/.netlify/functions/request-token",
+  
+  "checkStatusUrl": "https://amazing-kelpie-1e19b5.netlify.app/.netlify/functions/check-status",
+
+  "dialogSystem": {
+    "enabled": true 
+  },
+
+  "verification": {
+    "longUrl": "https://amazing-kelpie-1e19b5.netlify.app/verify",
+    "useHours": true,
+    "durationHours": 6,
+    "durationMinutes": 5
+  },
+  
+  "infoMessages": {
+    "premiumMessage": "Device Id Only For Premium User",
+    "warningMessage": "Tablet, TV And VPN Not Allowed."
+  },
+
+  "links": {
+    "joinUs": "https://t.me/YammyMods",
+    "contact": "https://t.me/GG_YAMIN",
+    "tutorial": "https://youtube.com/@yaminahmed?si=RyfMAqKiFz7I8gg3"
+  },
+
+  "expireSystem": {
+    "enabled": false
+  }
+}
