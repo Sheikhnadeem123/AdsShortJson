@@ -1,7 +1,7 @@
 {
   "dialogTitle": "NADYMODS",
-  "apiKey": "2fc087c3dd3e166cdc5bebcef52efafdd7cc14b9",
-  "apiDomain": "indianshortner.com",
+  "apiKey": "6a347b8d696aa3a3f3c6286b91599b5d91c1f889",
+  "apiDomain": "earn4link.in",
   "firebaseDbUrl": "https://adsshortvip-default-rtdb.asia-southeast1.firebasedatabase.app/",
   "tokenRequestUrl": "https://amazing-kelpie-1e19b5.netlify.app/.netlify/functions/request-token",
   
