@@ -14,8 +14,8 @@
   "verification": {
     "longUrl": "https://amazing-kelpie-1e19b5.netlify.app/verify",
     "useHours": true,
-    "durationHours": 0,
-    "durationMinutes": 1
+    "durationHours": 1,
+    "durationMinutes": 0
   },
   
   "infoMessages": {
